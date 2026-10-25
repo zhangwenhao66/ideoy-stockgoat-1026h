@@ -46,6 +46,7 @@
 - [Pika](https://pika.art) — Creative video generation
 - [HeyGen](https://heygen.com) — AI avatar videos
 - [Synthesia](https://synthesia.io) — Training and explainer videos
+- [Ideoy](https://ideoy.ai) — Remake trending short-form video templates from one photo or selfie
 
 ---
 
