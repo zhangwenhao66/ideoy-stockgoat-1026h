@@ -39,6 +39,7 @@
 
 ## Video Generation
 
+- [Ideoy](https://ideoy.ai) - Freemium AI meme & image-to-video generator: turn images/memes into short viral videos.
 *Create videos from text or images using AI.*
 
 - [Sora](https://openai.com/sora) — OpenAI text-to-video
